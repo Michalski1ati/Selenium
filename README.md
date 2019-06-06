@@ -31,15 +31,3 @@ Zaprojektowano sześć przypadków, wg specyfikacji z tej tabelki:
 | 05. | Marzena Tudrej | 20-02-2003 (16 lat) | ✔ | ✖
 | 06. | Kamil Rafalski | 28-06-1995 (23 lat) | ✖ | ✖
 
-### NetBeans screen (dowód, że testy przeszły)
-
-![Selenium](https://i.imgur.com/nqZP7Zw.png)
-
-### Użyte technologie
- - Java
- - Selenium Java
- 
- ### Jak odpalić?
- - Dowolne środowisko programistyczne
- - Zbuduj z zależnościami z plika pom.xml (Maven zaciągnie je automatycznie)
- - Zmień w kodzie lokalizację twojej geckodriver, domyślnie w kodzie jest to  `D:/Drivers/geckodriver.exe`
